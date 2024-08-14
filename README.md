@@ -3,7 +3,8 @@ An iOS demo app that finds movies.
 
 Architecture - VIPER 
 Image Caching - yes (only with in a session)
-Screenshots - in screenshot folder
+Screenshots - 
+ScreenShots/detail.png
 
 Improvements 
 - loader while searching for movies / pagination loader
